@@ -1,0 +1,2 @@
+# MyFirstProject
+java platform project
